@@ -30,7 +30,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre essa estapa do GoBarber
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app para agendamento de serviços de beleza, o GoBarber.
 
