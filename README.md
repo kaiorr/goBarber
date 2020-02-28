@@ -7,7 +7,7 @@
 </h3>
 
 
-<p>Esse desafio faz parte de uma aplicação completa (Back-end, Front-end e Mobile) que é para acompanhamento do Bootcamp GoStack, por isso é fundamental que ele seja feito com muito empenho!</p>
+<p>:dart: Esse desafio faz parte de uma aplicação completa (Back-end, Front-end e Mobile) que é para acompanhamento do Bootcamp GoStack, por isso é fundamental que ele seja feito com muito empenho!</p>
 
 
 <p align="center">
@@ -67,3 +67,4 @@ Você agora precisa permitir que prestadores de serviço vejam sua agenda comple
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+Feito com :heart:
