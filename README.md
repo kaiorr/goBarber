@@ -7,7 +7,7 @@
 </h3>
 
 
-<p>:dart: Esse desafio faz parte de uma aplicação completa (Back-end, Front-end e Mobile) que é para acompanhamento do Bootcamp GoStack, por isso é fundamental que ele seja feito com muito empenho!</p>
+<p>:dart: Esse desafio faz parte de uma aplicação completa (Back-end, Front-end e Mobile) que é para acompanhamento do Bootcamp GoStack, por isso está sendo feito com muito empenho!</p>
 
 
 <p align="center">
