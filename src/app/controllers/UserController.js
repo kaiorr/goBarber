@@ -10,7 +10,7 @@ class UserController {
     });
 
     if (!(await schema.isValid(req.body))) {
-      return res.status(400).json({ error: 'Validation Fails' });
+      return res.status(400).json({ error: 'Falha na Validação' });
     }
 
     const userExists = await User.findOne({
