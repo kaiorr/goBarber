@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 2: Construção da API GoBarber
+  Construção da API GoBarber
 </h3>
 
 
