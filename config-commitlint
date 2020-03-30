@@ -1,0 +1,23 @@
+# Passo para instalação
+
+##Com esse comando vai gerar o arquivo (commitlin.config.js) na raiz do projeto
+
+    -> yarn add @commitlint/config-conventional @commitlint/cli -D 
+
+##Com esse comando será instalado o husky
+
+    -> yarn add husky -D 
+
+#Instalação Comitizen, responsável por automatizar o commitlint juntamente com o husky
+
+    -> yarn add commitizen -D
+
+    -> commitizen init cz-conventional-changelog --yarn --dev --exact
+
+##Para deixar tudo pronto, e o commitlint ficar disponível a cada interação
+
+###Adicionar a linha abaixo no packge.json, dentro do husky
+
+    -> "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+
+
