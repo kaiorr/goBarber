@@ -7,6 +7,11 @@
     "dev": "nodemon ./src/server.js",
     "debug": "node --inspect-brk -r sucrase/register ./src/server.js"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "date-fns": "^2.0.0-beta.5",
