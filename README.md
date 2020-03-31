@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-02?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/goBarber">
 
   <a href="https://github.com/kaiorr">
     <img alt="Development by" src="https://img.shields.io/badge/development--by-kaiorr-blue">
@@ -25,6 +25,9 @@
     <a href="https://github.com/kaiorr/goBarber/watchers">
     <img alt="Stargazers" src="https://img.shields.io/github/watchers/kaiorr/goBarber?label=Watch&style=social">
   </a>
+    
+  <img alt="Stargazers" src="https://img.shields.io/github/repo-size/kaiorr/goBarber">
+    
 </p>
 
 <p align="center">
