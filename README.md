@@ -73,4 +73,4 @@ Você agora precisa permitir que prestadores de serviço vejam sua agenda comple
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-Feito com :heart: por **Kaio Ribeiro**, 🤙 [Professional_Network][https://www.linkedin.com/in/kaio-ribeiro-310123150/]
+Feito com :heart: por **Kaio Ribeiro**, 🤙 [Professional_Network](https://www.linkedin.com/in/kaio-ribeiro-310123150)
