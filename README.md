@@ -36,16 +36,17 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre essa estapa do GoBarber
+## :barber: :round_pushpin: GoBarber
 
-A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app para agendamento de serviços de beleza, o GoBarber.
+O Projeto Gobarber, será realizado para acompanhamento do gostack e no final será desenvolvido um app para acomapanhamento e agendamento serviços de beleza.
 
-Nesse primeiro desafio vamos criar algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui. Esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp**, então, bora pro código!
+ Esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp**.
 
 ### **Um pouco sobre as ferramentas**
 
 Você deverá criar a aplicação do zero utilizando o [Express](https://expressjs.com/), além de precisar configurar as seguintes ferramentas:
 
+- Docker
 - Sucrase + Nodemon;
 - ESLint + Prettier + EditorConfig;
 - Sequelize (Utilize PostgreSQL ou MySQL);
