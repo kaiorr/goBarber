@@ -3,24 +3,27 @@
 </h1>
 
 <h3 align="center">
-  Construção da API GoBarber
+  Construção da API GoBarber :package:
 </h3>
 
 
-<p>:dart: Esse desafio faz parte de uma aplicação completa (Back-end, Front-end e Mobile) que é para acompanhamento do Bootcamp GoStack, por isso está sendo feito com muito empenho!</p>
+<p>:dart: o Gobarber é uma aplicação completa (Back-end, Front-end e Mobile) que é para acompanhamento do Bootcamp GoStack!</p>
 
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-02?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://github.com/kaiorr">
+    <img alt="Development by" src="https://img.shields.io/badge/development--by-kaiorr-blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-02/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-02?style=social">
+  <a href="https://github.com/kaiorr/goBarber/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/goBarber?style=social">
+  </a>
+    <a href="https://github.com/kaiorr/goBarber/watchers">
+    <img alt="Stargazers" src="https://img.shields.io/github/watchers/kaiorr/goBarber?label=Watch&style=social">
   </a>
 </p>
 
@@ -67,4 +70,4 @@ Você agora precisa permitir que prestadores de serviço vejam sua agenda comple
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-Feito com :heart:
+Feito com :heart: por **Kaio Ribeiro**, 🤙 [Professional_Network][https://www.linkedin.com/in/kaio-ribeiro-310123150/]
